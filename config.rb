@@ -14,3 +14,7 @@ fonts_dir = "source/fonts"
 
 line_comments = false
 output_style = :compressed
+
+# dev
+# line_comments = true
+# output_style = :expanded
