@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://willybarro.github.io/blog/2012/10/06/teste-de-primeiro-post/</loc>
+        <lastmod>2013-04-24T10:01:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://willybarro.github.io/404.html</loc>
+        <lastmod>2013-04-24T10:01:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://willybarro.github.io/about/</loc>
+        <lastmod>2013-04-24T10:01:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://willybarro.github.io/blog/archives/</loc>
+        <lastmod>2013-04-24T10:01:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://willybarro.github.io/</loc>
+        <lastmod>2013-04-24T10:01:20-03:00</lastmod>
+    </url>
+</urlset>

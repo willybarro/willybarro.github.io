@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code Rulz!]]></title>
+  <link href="http://willybarro.github.io/atom.xml" rel="self"/>
+  <link href="http://willybarro.github.io/"/>
+  <updated>2013-04-24T10:26:11-03:00</updated>
+  <id>http://willybarro.github.io/</id>
+  <author>
+    <name><![CDATA[Willy Barro]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Teste de primeiro post]]></title>
+    <link href="http://willybarro.github.io/blog/2012/10/06/teste-de-primeiro-post/"/>
+    <updated>2012-10-06T11:21:00-03:00</updated>
+    <id>http://willybarro.github.io/blog/2012/10/06/teste-de-primeiro-post</id>
+    <content type="html"><![CDATA[<p>Teste:</p>
+
+<pre><code>- Lorem
+- Ipsum 
+- Dolor
+</code></pre>
+
+<figure class='code'><figcaption><span>Descobrir se um numero eh primo</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class='php'><span class='line'><span class="cp">&lt;?php</span>
+</span><span class='line'>  <span class="k">echo</span> <span class="s1">&#39;ola mundo&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
