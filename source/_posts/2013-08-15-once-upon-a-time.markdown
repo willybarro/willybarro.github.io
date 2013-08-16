@@ -38,7 +38,7 @@ I hope this will help someone to get the courage to publish their blogs and stop
 I've bumped up coincidentally (or not) into a great Octopress theme when I decided to follow my *"WRITE, MOTHER FUCKER!"* not-so *manifesto*. All credits to [Shashank Mehta](http://shashankmehta.in/archive/2012/greyshade.html).
 
 
-Oh… and, as you may already know, my main language is not english, so, please ignore any english mistakes or if you have a great soul, send me a fix on [twitter @willybarro](http://www.twitter.com/willybarro).
+Oh… and, as you may already know, my native language is not english, so, please ignore any english mistakes or if you have a great soul, send me a fix on [twitter @willybarro](http://www.twitter.com/willybarro).
 
 
 [^1]: Borrowed from the fun "Programming Motherfucker" manifesto - <http://programming-motherfucker.com/>
