@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Once upon a time"
+title: "Once upon a time..."
 date: 2013-08-15 19:13
 comments: true
 categories: self-rant
 ---
-# Once upon a time...
 … there was a guy on his early 20s, he was a software developer who wondered to write on his own blog. He was amazed by how marvelous would his world be if he could express himself, his coding experiences, self-rants, tutorials, puzzles, talk about conferences he attended, about every-day coding challenges and general hackish or nerdish stuff.
 
 His friends told him to write a blog, his old bosses told him to write a blog, even his girlfriend told him to write a blog. And he almost got there in **X** different times, with dozens of completely different themes, in **Y** different CMS's (Wordpress, Jekyll, home baked…) and in **Z** completely different attempts on a couple of years of this new millenium.
