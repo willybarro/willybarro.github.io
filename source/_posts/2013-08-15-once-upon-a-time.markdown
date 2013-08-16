@@ -25,7 +25,7 @@ If your content is good, nobody will really care if you have a not-so-beautiful 
 
 Leave all those problems to the future. I guarantee that you'll bump on a cool theme in no time or maybe you'll just forget it.
 
-Not convinced yet? Look at any online [language](http://www.php.net/manual/) [documentation](http://www.python.org/doc/). Those documentations doesn't look really sexy, right? If those guys were not following the *"WRITE, MOTHER FUCKER"* line of thought, we would need to scrap infinite sourcefiles just to know what that nasty "[str_pbrk](http://www.php.net/manual/en/function.strpbrk.php)" function does.
+Not convinced yet? Look at any online [language](http://www.php.net/manual/) [documentation](http://www.python.org/doc/), these docs doesn't look really sexy right? If those guys were not following the *"WRITE, MOTHER FUCKER"* line of thought, we would need to scrap infinite sourcefiles just to know what that nasty "[str_pbrk](http://www.php.net/manual/en/function.strpbrk.php)" function does.
 
 So, stop crying like a baby and "WRITE, MOTHER FUCKER!".
 
