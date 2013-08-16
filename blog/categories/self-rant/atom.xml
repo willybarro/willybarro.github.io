@@ -4,7 +4,7 @@
   <title><![CDATA[Category: self-rant | Willy Barro]]></title>
   <link href="http://willybarro.github.io/blog/categories/self-rant/atom.xml" rel="self"/>
   <link href="http://willybarro.github.io/"/>
-  <updated>2013-08-15T21:26:40-03:00</updated>
+  <updated>2013-08-15T21:29:06-03:00</updated>
   <id>http://willybarro.github.io/</id>
   <author>
     <name><![CDATA[Willy Barro]]></name>
@@ -14,13 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Once upon a time]]></title>
+    <title type="html"><![CDATA[Once upon a time...]]></title>
     <link href="http://willybarro.github.io/blog/2013/08/15/once-upon-a-time/"/>
     <updated>2013-08-15T19:13:00-03:00</updated>
     <id>http://willybarro.github.io/blog/2013/08/15/once-upon-a-time</id>
-    <content type="html"><![CDATA[<h1>Once upon a time&hellip;</h1>
-
-<p>… there was a guy on his early 20s, he was a software developer who wondered to write on his own blog. He was amazed by how marvelous would his world be if he could express himself, his coding experiences, self-rants, tutorials, puzzles, talk about conferences he attended, about every-day coding challenges and general hackish or nerdish stuff.</p>
+    <content type="html"><![CDATA[<p>… there was a guy on his early 20s, he was a software developer who wondered to write on his own blog. He was amazed by how marvelous would his world be if he could express himself, his coding experiences, self-rants, tutorials, puzzles, talk about conferences he attended, about every-day coding challenges and general hackish or nerdish stuff.</p>
 
 <p>His friends told him to write a blog, his old bosses told him to write a blog, even his girlfriend told him to write a blog. And he almost got there in <strong>X</strong> different times, with dozens of completely different themes, in <strong>Y</strong> different CMS&rsquo;s (Wordpress, Jekyll, home baked…) and in <strong>Z</strong> completely different attempts on a couple of years of this new millenium.</p>
 
